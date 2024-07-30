@@ -1,1 +1,1 @@
-tomcat:7.0.109-jdk8-openjdk
+gb-redis-follower:v2
