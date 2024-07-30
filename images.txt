@@ -1,1 +1,1 @@
-gb-redis-follower
+google-samples/containers/gke/gb-frontend:v5
