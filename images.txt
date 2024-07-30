@@ -1,1 +1,1 @@
-gb-redis-follower:v2
+gb-redis-follower
