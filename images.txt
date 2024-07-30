@@ -1,1 +1,1 @@
-us-docker.pkg.dev/google-samples/containers/gke/gb-frontend:v5
+us-docker.pkg.dev/google-samples/containers/gke/gb-redis-follower:v2
