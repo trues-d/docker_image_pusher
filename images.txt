@@ -1,1 +1,1 @@
-index.tenxcloud.com/jimmy/k8s-sample-webapp:latest
+k8s-sample-webapp:latest
